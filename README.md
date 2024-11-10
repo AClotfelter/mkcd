@@ -6,4 +6,4 @@ Create a directory and immediately change into it. Will create intermediate dire
 
 ## Usage
 
-mkcd <path>
+`mkcd <path>`
