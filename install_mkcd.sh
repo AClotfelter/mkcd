@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 
 # URL to the raw file in your GitHub repository
 RAW_FILE_URL="https://raw.githubusercontent.com/AClotfelter/mkcd/main/mkcd"
