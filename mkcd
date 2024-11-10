@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 # mkcd: Create a directory and immediately change into it
 
 if [ -z "$1" ]; then
